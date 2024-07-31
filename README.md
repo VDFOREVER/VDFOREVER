@@ -1,4 +1,4 @@
-<p style="text-align: center; font-weight: 900; font-size: 30px;">I'm a Beginner Graphic Programmer</p>
+<div style="align: center; font-weight: 900; font-size: 30px;">I'm a Beginner Graphic Programmer</div>
 
 <p style="text-align: center; font-weight: 900; font-size: 20px;">Languages and Tools</p>
 <p align="center" >
