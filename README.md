@@ -1,5 +1,10 @@
 <div style="align: center; font-weight: 900; font-size: 30px;">I'm a Beginner Graphic Programmer</div>
 
+<div style='text-align: center;'>
+  bobbyhadz.com
+</div>
+
+
 <p style="text-align: center; font-weight: 900; font-size: 20px;">Languages and Tools</p>
 <p align="center" >
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=black"/>
