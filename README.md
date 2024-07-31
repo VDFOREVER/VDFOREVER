@@ -1,9 +1,4 @@
-<div style="align: center; font-weight: 900; font-size: 30px;">I'm a Beginner Graphic Programmer</div>
-
-<div style='text-align: center;'>
-  bobbyhadz.com
-</div>
-
+<h1 align="center" style="font-weight: 900; font-size: 30px;" >I'm a Beginner Graphic Programmer</h1>
 
 <p style="text-align: center; font-weight: 900; font-size: 20px;">Languages and Tools</p>
 <p align="center" >
