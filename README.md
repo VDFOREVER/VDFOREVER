@@ -3,7 +3,6 @@
 <p align="center" >
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2B%2B&logoColor=blue&labelColor=black"/>
     <img src="https://img.shields.io/badge/-Lua-090909?style=for-the-badge&logo=lua&logoColor=blue&labelColor=black"/>
-    <img src="https://img.shields.io/badge/-wireshark-090909?style=for-the-badge&logo=wireshark&logoColor=42aaff&labelColor=black"/>
     <img src="https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=rust&logoColor=orange&labelColor=black"/>
     <img src="https://img.shields.io/badge/-VPN-090909?style=for-the-badge&logo=wireguard&logoColor=red&labelColor=black"/>
 </p>
