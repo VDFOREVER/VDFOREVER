@@ -1,5 +1,3 @@
-<h1 align="center" style="font-weight: 900; font-size: 30px;" >I'm a Beginner Network Programmer</h1>
-
 <h2 align="center" style="font-weight: 900; font-size: 20px;" >Languages and Tools</h2>
 
 <p align="center" >
