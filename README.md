@@ -9,9 +9,9 @@
 
 <h1 align="center" style="font-weight: 900; font-size: 20px;" >PC Configuration</h1>
 <p align="center" >
-    <img src="https://img.shields.io/badge/-arch-090909?style=for-the-badge&logo=archlinux&logoColor=#4F75C0&labelColor=black"/>
+    <img src="https://img.shields.io/badge/-void%20linux-090909?style=for-the-badge&logo=voidlinux&logoColor=%23008000&labelColor=black"/>
     <img src="https://img.shields.io/badge/-Sway-090909?style=for-the-badge&logo=sway&labelColor=black&logoColor=68751C"/>
-    <img src="https://img.shields.io/badge/-RX%20570-090909?style=for-the-badge&logo=amd&logoColor=red&labelColor=black"/>
+    <img src="https://img.shields.io/badge/-RX%206600%20XT-090909?style=for-the-badge&logo=amd&logoColor=red&labelColor=black%22"/>
     <img src="https://img.shields.io/badge/-Ryzen%205%203600-090909?style=for-the-badge&logo=amd&logoColor=red&labelColor=black"/>
 </p>
 
